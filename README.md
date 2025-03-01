@@ -93,4 +93,4 @@ src/
 
 ## License
 GNU GPLv3 (Compatible with Dekko's licensing)
-See LICENSE for details.
+See [LICENSE](./LICENSE) for details.
